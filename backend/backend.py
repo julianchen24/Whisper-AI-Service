@@ -1,6 +1,6 @@
 # venv\Scripts\activate
 # Run both frontend and backend
-# http://localhost:7860/
+# For frontend: http://localhost:7860/
 
 # To run speaches:
 # cd speaches
