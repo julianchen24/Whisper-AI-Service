@@ -1,6 +1,7 @@
-# Whisper-AI-Service 🎧🔊➞📝
+# Whisper-AI 🎧🔊➞📝
 
-Whisper-AI-Service is an AI-powered speech-to-text transcription service using OpenAI's **Whisper** model. It allows users to upload **MP3** files and receive automatic transcriptions through a FastAPI backend and a **Gradio** web-based frontend.
+Whisper-AI is an AI-powered speech-to-text transcription service using OpenAI's **Whisper** model. It allows users to upload **MP3** files and receive automatic transcriptions through a FastAPI backend and a **Gradio** web-based frontend.
+![image](https://github.com/user-attachments/assets/b0a6bb81-e11c-4207-b296-68c975b059fe)
 
 ## 🚀 Features
 
